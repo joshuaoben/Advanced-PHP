@@ -1,2 +1,2 @@
 .vagrant/
-includes/db.php
+www/includes/db.php
